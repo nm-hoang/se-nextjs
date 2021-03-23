@@ -1,0 +1,31 @@
+.upload-img{
+    border-radius:20px;
+    width: 90%;
+}
+.btn-upload{
+    border-radius:20px;
+    width: 8rem;
+}
+
+.thumbnail-pr{
+    width:73% ;
+}
+.img-preview{
+    width: 15rem !important;
+    height: 11rem !important;
+    bottom: 0;
+}
+.contain-img{
+    width: 15rem;
+    height: auto;
+}
+
+@media (max-width:850px){
+    .thumbnail-pr{
+        width:90% !important;
+    }
+    .contain-img{
+        width: 10rem !important;
+        margin-right: 0 !important;
+    }
+}

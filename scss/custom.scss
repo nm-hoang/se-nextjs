@@ -1,0 +1,72 @@
+/** @format */
+
+// $primary: #1e86ff !default;
+// $secondary: #808080;
+// $success: #2ccb2a;
+// $danger: #fa3a3c;
+// $warning: #fa993a;
+// $light: #fff;
+// $dark: #3b4351;
+
+// $theme-colors: (
+//   'primary': #1e86ff,
+//   'secondary': #808080,
+//   'success': #2ccb2a,
+//   'danger': #fa3a3c,
+//   'warning': #fa993a,
+//   'light': #fff,
+//   'dark': #3b4351,
+// );
+
+// Colors
+@import './colors.scss';
+@import './formSubmit.scss';
+@import './listSearch.scss';
+@import './icon.scss';
+@import './hotel.scss';
+@import './formCheckout.scss';
+@import './uploadImage.scss';
+
+@import '../node_modules/bootstrap/scss/bootstrap';
+// Icons
+@import url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css');
+// Fonts
+@import './fonts.scss';
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.container-fluid {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.navbar {
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
+.card-hover {
+  // transition: 0.3s ease-out;
+  transition: 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  &:hover {
+    // border: 1px solid $primary;
+    // box-shadow: 0px 10px 30px rgba(166, 173, 201, 0.2),
+    //   0px 5px 20px rgba(166, 173, 201, 0.2),
+    //   0px 5px 10px rgba(154, 160, 185, 0.05);
+    box-shadow: 0px 16px 48px rgba(0, 0, 0, 0.175);
+  }
+}
+
+.border-10 {
+  border: none;
+  border-radius: 10px;
+}
+
+.shadow-md {
+  box-shadow: 0px 16px 48px rgba(0, 0, 0, 0.175);
+}
+
+.bg-dim-light {
+  background-color: #f6f6f6;
+}

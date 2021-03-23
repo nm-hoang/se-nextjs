@@ -1,0 +1,74 @@
+.form-search{
+  background:#fafafa;
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+  border-radius: 20px;
+}
+
+
+.img-hotel{
+  height: 223px;
+  max-width: 100% !important;
+  border-radius: 10px 0px 0px 10px !important;
+}
+.item-hotel{
+  /* height:225px; */
+  border-radius:10px !important;
+}
+
+.price-field{
+    position: absolute;
+    bottom: 3%;
+}
+
+.btn-type{
+  padding: 0 !important;
+  width: 6rem !important;
+}
+.icon-rating{
+  margin-left: 6px;
+  width: 1rem;
+}
+.price-final{
+  color: #FA993A;
+}
+
+.loadmore{
+  background: #E3F2FB;
+  width: 150px;
+  margin-bottom: 2%;
+}
+
+@media (min-width:1200px){
+  .item-hotel{
+    width: 75% !important;
+  }
+  .img-hotel{
+    margin-left: -12px !important;
+  }
+  .search-title{
+    margin-left: 13%
+  }
+  .item-hotel:hover{
+    border-color: #1e86ff !important;
+    transform: scale(1.015);
+  }
+}
+@media (max-width: 760px){
+  .price-field{
+    position: relative !important;
+    margin-top: 3% !important;
+  }
+  .img-hotel{
+    border-radius: 10px !important;
+  }
+  .price-f{
+    margin-top: 0 !important;
+  }
+  .item-hotel{
+    border-radius: 10px !important;
+    padding-top: 4%;
+    height: auto;
+    padding-bottom: 4%;
+  }
+}

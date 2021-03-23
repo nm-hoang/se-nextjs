@@ -1,0 +1,30 @@
+.form-submit{
+    background: #ffffff;
+    width:30% !important;
+    /* position:absolute; */
+    /* right: 10%; */
+
+
+}
+.carousel-img{
+    height: 5rem;
+}
+.input-groupm, .input-field{
+    border: none !important;
+}
+
+.icon{
+    width:20px;
+}
+.input-field{
+    height: 3em;
+}
+@media (max-width:770px){
+    .form-submit {
+        width: 85% !important;
+    }
+}
+.search{
+    width:80% !important;
+    border-radius: 15px;
+}
