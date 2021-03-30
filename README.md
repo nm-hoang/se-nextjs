@@ -16,7 +16,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
   ![Thumbnail](https://i.imgur.com/M0UTbMw.jpg)
 ### User can check order again after booking
   ![Thumbnail](https://i.imgur.com/Lpjt1Av.jpg)
-### Admin can add images for hotel (images is stored in Cloudinary)
+### Admin can add images for hotel (images are stored in Cloudinary)
   ![Thumbnail](https://i.imgur.com/sInrKYm.jpg)
 
     
