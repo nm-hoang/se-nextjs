@@ -19,13 +19,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ### Admin can add images for hotel (images are stored in Cloudinary)
   ![Thumbnail](https://i.imgur.com/sInrKYm.jpg)
 
-    
-    
-    
-    
+  
+ 
+
     
 ## Getting Started
-     
+Source code Back-end: https://github.com/nm-hoang/se-nodejs    
      
 First, run the development server:
 
