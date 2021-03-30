@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ### On page login:
   username: daniel29
   password: 123123
-  ![Thumbnail](https://i.imgur.com/A0YR9IJ.jpg)
+  ![Thumbnail](https://i.imgur.com/t5ySucG.jpg)
     
 ### On home page:
   show seacrh feild for user to find location they want to find.
