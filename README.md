@@ -1,7 +1,26 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Demo:
+### On page login:
+    username: daniel29
+    password: 123123
+    ![Thumbnail](https://i.imgur.com/A0YR9IJ.jpg)
+    
+### On home page:
+    show seacrh feild for user to find location they want to find.
+    ![Thumbnail](https://i.imgur.com/8mrzEn2.jpg)   
+### Show result list hotel after click <strong><em>Search</em></strong> :
+    ![Thumbnail](https://i.imgur.com/uLOIDPk.jpg)
+### Show detail of the hotel:
+    
+    
+    
+    
+    
+    
 ## Getting Started
-
+     
+     
 First, run the development server:
 
 ```bash
