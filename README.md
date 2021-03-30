@@ -2,17 +2,23 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Demo:
 ### On page login:
-    username: daniel29
-    password: 123123
-    ![Thumbnail](https://i.imgur.com/A0YR9IJ.jpg)
+  username: daniel29
+  password: 123123
+  ![Thumbnail](https://i.imgur.com/A0YR9IJ.jpg)
     
 ### On home page:
-    show seacrh feild for user to find location they want to find.
-    ![Thumbnail](https://i.imgur.com/8mrzEn2.jpg)   
+  show seacrh feild for user to find location they want to find.
+  ![Thumbnail](https://i.imgur.com/8mrzEn2.jpg)   
 ### Show result list hotel after click <strong><em>Search</em></strong> :
-    ![Thumbnail](https://i.imgur.com/uLOIDPk.jpg)
+ ![Thumbnail](https://i.imgur.com/1qaMJpI.jpg)
 ### Show detail of the hotel:
-    
+  ![Thumbnail](https://i.imgur.com/Mm3W0LJ.jpg)
+  ![Thumbnail](https://i.imgur.com/M0UTbMw.jpg)
+### User can check order again after booking
+  ![Thumbnail](https://i.imgur.com/Lpjt1Av.jpg)
+### Admin can add images for hotel (images is stored in Cloudinary)
+  ![Thumbnail](https://i.imgur.com/sInrKYm.jpg)
+
     
     
     
